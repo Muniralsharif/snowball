@@ -39,5 +39,6 @@
 
 - [Duaa](https://github.com/DuaaH)
 - [Yaqoot](https://github.com/yaqootturman)
-- [Rand](https://github.com/RandInaim)
 - [Munir](https://github.com/Muniralsharif)
+- [Rand](https://github.com/RandInaim)
+
