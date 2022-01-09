@@ -20,7 +20,7 @@
     Most importantly the app will show the user how many people, around the world, have already committed to each action
 
 ## Heroku Link :
-[snowball](https://snow-ball.herokuapp.com) :earth_africa: :seedling: 📱 Mobile-First-Design <First Stage Project>
+[snowball](https://snow-ball.herokuapp.com) :earth_africa: :seedling: 📱 Mobile-First-Design 🌟
 
 ## Instructions :
 
